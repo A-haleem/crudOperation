@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(0,0, 0, 0.2);
+}
+.container{
+    width: 50%;
+    margin-left: 25%;
+}
+h2{
+    margin-left: 30px;
+}
+#input{
+    width:  300px;
+    height: 35px;
+    list-style-type: none;
+    padding: 0;
+    padding: 3px;
+    margin-left: 5px;
+    font-size: 20px;
+    
+
+}
+
+
+#li-List{
+    width: 50px;
+    margin-bottom: 5px ;
+    padding: 5px;
+}
+button{
+    width:100px;
+    height: 48px;
+
+}
